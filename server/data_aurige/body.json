@@ -1,15 +1,13 @@
 {
-  "candidat": {
-    "nomNaissance": "LAZANTSY",
-    "nomUsage": "LAZANTSY",
-    "prenom": "christophe",
-    "codeNeph": "180894100001",
-    "dateNaissance": "1975-08-11",
-    "dateReussiteETG": "2014-03-13T00:00:00.000Z",
-    "dateDernierEchecPratique": "2018-03-13T00:00:00.000Z",
-    "reussitePratique": "NOK",
-    "adresse": "2 rue docteur ramon 94000 creteil",
-    "mobile": "0650146161",
-    "email": "salahdin.lazantsy@gmail.com"
-  }
+  "nomNaissance": "LAZANTSY",
+  "nomUsage": "LAZANTSY",
+  "prenom": "christophe",
+  "codeNeph": "180894100001",
+  "dateNaissance": "1975-08-11",
+  "dateReussiteETG": "2014-03-13T00:00:00.000Z",
+  "dateDernierEchecPratique": "2018-03-13T00:00:00.000Z",
+  "reussitePratique": "NOK",
+  "adresse": "2 rue docteur ramon 94000 creteil",
+  "portable": "0650146161",
+  "email": "salahdin.lazantsy@gmail.com"
 }

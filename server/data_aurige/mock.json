@@ -1,0 +1,57 @@
+[
+  {
+    "codeNeph": "130793100493",
+    "nomNaissance": "ABDALLAH",
+    "nomUsage": "",
+    "prenom": "Anissa",
+    "email": "anissa.abdallah08@gmail.com",
+    "dateReussiteETG": "2013-12-19",
+    "dateDernierEchecPratique": "2016-09-09",
+    "reussitePratique": "NOK",
+    "candidatExistant": "OK"
+  },
+  {
+    "codeNeph": "150972300702",
+    "nomNaissance": "ABIDAT",
+    "nomUsage": "",
+    "prenom": "Alvin",
+    "email": "alvinium93@outlook.fr",
+    "dateReussiteETG": "2016-12-28",
+    "dateDernierEchecPratique": "2017-10-26",
+    "reussitePratique": "NOK",
+    "candidatExistant": "OK"
+  },
+  {
+    "codeNeph": "170893200401",
+    "nomNaissance": "ADAMOVA",
+    "nomUsage": "",
+    "prenom": "Monika",
+    "email": "monika28adamova@gmail.com",
+    "dateReussiteETG": "2017-09-14",
+    "dateDernierEchecPratique": "2018-04-23",
+    "reussitePratique": "NOK",
+    "candidatExistant": "OK"
+  },
+  {
+    "codeNeph" : "100893100892",
+    "nomNaissance" : "AMEGANVI AZANGOUNON",
+    "nomUsage" : "",
+    "prenom" : "Kayi Helene",
+    "email" : "heleneameganvi@yahoo.fr",
+    "dateReussiteETG" : "",
+    "dateDernierEchecPratique" : "",
+    "reussitePratique" : "",
+    "candidatExistant" : "NOK"
+  },
+  {
+    "codeNeph" : "",
+    "nomNaissance" : "TOUHAMI",
+    "nomUsage" : "",
+    "prenom" : "Naoual",
+    "email" : "",
+    "dateReussiteETG" : "",
+    "dateDernierEchecPratique" : "",
+    "reussitePratique" : "",
+    "candidatExistant" : "NOK"
+  }
+]
